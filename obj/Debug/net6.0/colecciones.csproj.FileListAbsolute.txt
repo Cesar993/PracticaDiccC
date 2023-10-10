@@ -1,0 +1,15 @@
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.AssemblyInfo.cs
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\bin\Debug\net6.0\colecciones.exe
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\bin\Debug\net6.0\colecciones.deps.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\bin\Debug\net6.0\colecciones.runtimeconfig.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\bin\Debug\net6.0\colecciones.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\bin\Debug\net6.0\colecciones.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\refint\colecciones.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\colecciones.genruntimeconfig.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\colecciones\obj\Debug\net6.0\ref\colecciones.dll
